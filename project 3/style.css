@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: linear-gradient(rgb(252, 248, 248), rgb(223, 126, 126), rgb(48, 28, 28));
+    background-position: center; 
+    background-size: cover;
+    height: 100vh;
+
+}
+.logo {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+.chroma {
+    position: relative;
+    float: right;
+    margin-right: 250px;
+    margin-top: 40px;
+}
+.logo img {
+    width: 300px;
+}
+.chroma img {
+    width: 100px;
+}
+.main {
+    position: absolute;
+    top: 12%;
+    margin-left: 370px;
+}
+.main img {
+    width: 820px;
+}
+.footer {
+    display: flex;
+}
+.rgb img {
+    width: 45px;
+    margin-top: 400px;
+    margin-left: 250px;
+}
+.rgbcontent {
+    margin-top: 400px;
+    margin-left: 20px;
+}
+.dpi img {
+    width: 45px;
+    margin-top: 475px;
+    margin-left: -135px;
+}
+.dpicontent {
+    margin-top: 465px;
+    margin-left: -75px;
+}
+.flash img {
+    width: 45px;
+    margin-top: 530px;
+    margin-left: -185px;
+}
+.flashcontent {
+    margin-top: 530px;
+    margin-left: -127px;
+}
